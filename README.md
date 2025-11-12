@@ -16,8 +16,9 @@ B. Possible Perspectives (potential insights)
  Several insightful discoveries are made possible by this tagging framework: Failure Pattern Recognition: Targeted process changes are made possible by r epeated root causes such as "Loose" or "Faulty," which point to systemic prob lems in manufacturing or quality control.                         
 Component RiskMapping: Parts that might need design improvements or hig her supplier quality are highlighted by frequent references to "ORing," "Senso r," and "Harness." 
 Service Optimization: Field technician training programs and inventory planni ng can benefit from the use of common fix actions like "Replaced" or "Retorq ued." 
-Predictive maintenance can reduce downtime and increase customer satisfac tion by using predictive models that are constructed using enough labeled da ta to predict         breakdowns based on symptom patterns. 
-                                                                                                                                                                               **❖ Data Task 2 Report: Steering Wheel Repair Dataset Analysis **
+Predictive maintenance can reduce downtime and increase customer satisfac tion by using predictive models that are constructed using enough labeled da ta to predict                         
+breakdowns based on symptom patterns. 
+<br> Data Task 2 Report: Steering Wheel Repair Dataset Analysis </br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ❖ Data Task 2 Report: Steering Wheel Repair Dataset Analysis 
 A. Column Analysis 
 The dataset contains over 60 columns spanning vehicle identifiers, repair details, customer complaints, dealer information, and diagnostic outcomes. Key column types include: 
  
@@ -74,5 +75,4 @@ VIDEO, ADVISOR, INSPECT, REPORT, CONFIRMED, REQUESTED
 1.Enhance Component Quality: Pay attention to stitching durability and hot  modules. 
 2.Automate Warranty Workflows: To expedite approvals, use PRA tags. 
 3.Standardize Dealer Repairs: Use procedural tags to reinforce SOPs. 
- 
  
