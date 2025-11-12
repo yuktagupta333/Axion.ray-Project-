@@ -17,7 +17,7 @@ B. Possible Perspectives (potential insights)
 Component RiskMapping: Parts that might need design improvements or hig her supplier quality are highlighted by frequent references to "ORing," "Senso r," and "Harness." 
 Service Optimization: Field technician training programs and inventory planni ng can benefit from the use of common fix actions like "Replaced" or "Retorq ued." 
 Predictive maintenance can reduce downtime and increase customer satisfac tion by using predictive models that are constructed using enough labeled da ta to predict         breakdowns based on symptom patterns. 
- ❖ Data Task 2 Report: Steering Wheel Repair Dataset Analysis 
+                                                                                                                                                                               **❖ Data Task 2 Report: Steering Wheel Repair Dataset Analysis **
 A. Column Analysis 
 The dataset contains over 60 columns spanning vehicle identifiers, repair details, customer complaints, dealer information, and diagnostic outcomes. Key column types include: 
  
